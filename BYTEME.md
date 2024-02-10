@@ -13,10 +13,10 @@ All the consultation activities between the doctor and the patient will be recor
 
 
 <h2>TEAM MEMBERS</h2>
-<br>SHREYA CHAUDHARI - https://github.com/shreya-chaudhari-512 </br>
-<br>RAMYAA BALASUBRAMANIAN - https://github.com/ramyaa-b</br>
-<br>SHASHWAT BARAI -  https://github.com/Shash2106 </br>
-<br>PRATIK BHALEKAR - https://github.com/pratikpcb11 </br>
+<br><h3>SHREYA CHAUDHARI -</h3> https://github.com/shreya-chaudhari-512 </br>
+<br><h3>RAMYAA BALASUBRAMANIAN -</h3> https://github.com/ramyaa-b</br>
+<br><h3>SHASHWAT BARAI - </h3> https://github.com/Shash2106 </br>
+<br><h3>PRATIK BHALEKAR - </h3>https://github.com/pratikpcb11 </br>
 
 
 <h2>TECHSTACK</h2>
@@ -33,8 +33,23 @@ Database
 Mongodb
 
 <h3> ML: </h3>
-<br> Random forest algorithm </br>
+Random forest algorithm 
 <br> Neural Network </br>
 
-GITHUB REPOSITORY LINK:
+<h2>MENTORS: </h2>
+<h3>Raunak </h3>
+<h3>Unmani Shinde </h3>
+<h3>Pranav Shukla </h3>
+
+<h2>FUTURE SCOPE: </h2>
+<h4>1. Offering seamless patient monitoring functionalities through AR and VR technologies without geographical barriers.</h4>
+<h4>2. To build a framework that will help to carry out virtual treatments in the metaverse using the latest technologies such as artificial intelligence, and blockchain in combination with immersive technologies </h4>
+<h4> 3. Once a diagnosis is made, user information and disease data will be securely stored in the Ethereum blockchain database, leveraging the inherent advantages of 
+blockchain technology such as data integrity, immutability, and transparency. </h4>
+
+
+
+<br></br><br></br>
+<h2>GITHUB REPOSITORY LINK: </h2>
+
 https://github.com/shreya-chaudhari-512/health360
