@@ -13,13 +13,13 @@ All the consultation activities between the doctor and the patient will be recor
 
 
 <h2>TEAM MEMBERS</h2>
-SHREYA CHAUDHARI - https://github.com/shreya-chaudhari-512
-RAMYAA BALASUBRAMANIAN - https://github.com/ramyaa-b
-SHASHWAT BARAI -  https://github.com/Shash2106
-PRATIK BHALEKAR - https://github.com/pratikpcb11
+<br>SHREYA CHAUDHARI - https://github.com/shreya-chaudhari-512 </br>
+<br>RAMYAA BALASUBRAMANIAN - https://github.com/ramyaa-b</br>
+<br>SHASHWAT BARAI -  https://github.com/Shash2106 </br>
+<br>PRATIK BHALEKAR - https://github.com/pratikpcb11 </br>
+
 
 <h2>TECHSTACK</h2>
-
 <h3>Front end:</h3> 
 HTML 
 CSS 
@@ -29,9 +29,12 @@ REACTJS
 <h3>Backend: </h3> 
 Node.js 
 Python 
-
 Database 
 Mongodb
+
+<h3> ML: </h3>
+<br> Random forest algorithm </br>
+<br> Neural Network </br>
 
 GITHUB REPOSITORY LINK:
 https://github.com/shreya-chaudhari-512/health360
