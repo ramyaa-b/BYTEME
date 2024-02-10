@@ -11,5 +11,27 @@ All the consultation activities between the doctor and the patient will be recor
 ![image](https://github.com/shreya-chaudhari-512/health360/assets/143866457/775c8081-18aa-4d56-8bc3-e628e9593af1)
 
 
+
+<h2>TEAM MEMBERS</h2>
+SHREYA CHAUDHARI - https://github.com/shreya-chaudhari-512
+RAMYAA BALASUBRAMANIAN - https://github.com/ramyaa-b
+SHASHWAT BARAI -  https://github.com/Shash2106
+PRATIK BHALEKAR - https://github.com/pratikpcb11
+
+<h2>TECHSTACK</h2>
+
+<h3>Front end:</h3> 
+HTML 
+CSS 
+JS
+REACTJS
+
+<h3>Backend: </h3> 
+Node.js 
+Python 
+
+Database 
+Mongodb
+
 GITHUB REPOSITORY LINK:
 https://github.com/shreya-chaudhari-512/health360
