@@ -13,10 +13,10 @@ All the consultation activities between the doctor and the patient will be recor
 
 
 <h2>TEAM MEMBERS</h2>
-<br><h3>SHREYA CHAUDHARI -</h3> https://github.com/shreya-chaudhari-512 </br>
-<br><h3>RAMYAA BALASUBRAMANIAN -</h3> https://github.com/ramyaa-b</br>
-<br><h3>SHASHWAT BARAI - </h3> https://github.com/Shash2106 </br>
-<br><h3>PRATIK BHALEKAR - </h3>https://github.com/pratikpcb11 </br>
+<h3>SHREYA CHAUDHARI :</h3> https://github.com/shreya-chaudhari-512 
+<h3>RAMYAA BALASUBRAMANIAN : </h3> https://github.com/ramyaa-b
+<h3>SHASHWAT BARAI : </h3> https://github.com/Shash2106
+<h3>PRATIK BHALEKAR : </h3>https://github.com/pratikpcb11 
 
 
 <h2>TECHSTACK</h2>
@@ -49,7 +49,7 @@ blockchain technology such as data integrity, immutability, and transparency. </
 
 
 
-<br></br><br></br>
+<br></br>
 <h2>GITHUB REPOSITORY LINK: </h2>
 
 https://github.com/shreya-chaudhari-512/health360
